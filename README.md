@@ -20,7 +20,7 @@
 
       href="./assets/images/bug.webp"
 
-      type="image/x-icon"
+      type="image/x-icon" 
 
     />
 
